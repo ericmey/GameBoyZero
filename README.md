@@ -1,2 +1,0 @@
-# GameBoyZero
-Game Boy Zero
